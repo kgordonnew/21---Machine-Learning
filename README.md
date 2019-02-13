@@ -13,7 +13,7 @@ Overview: Use machine learning to see if we can predict wait times at Walt Disne
 
 Project utilizes: ML, HTML/CSS/Bootstrap, Tableau, Pandas, Javascript
 
-More detailed description of the ML portion (because Reema worked really hard on it):
+More detailed description of the ML portion:
 Machine Learning: The idea was to use ML to run through the data with dates and wait times for over 5 years to predict the wait times for various rides
 
 Date column was converted into meaningful features such as -> 'year', 'month', 'day', 'dayofweek', 'dayofyear', 'weekofyear', 'quarter','is_month_start','is_month_end','is_quarter_start'
